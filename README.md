@@ -26,7 +26,7 @@ Find the screenshots of my designs here.
 ### Links
 
 - Solution URL: [GitHub repository link](https://github.com/pranaygoel02/QR-Code-Element-Card)
-- Live Site URL: [](https://pranaygoel02.github.io/QR-Code-Element-Card/)
+- Live Site URL: [QR code element card](https://pranaygoel02.github.io/QR-Code-Element-Card/)
 
 ## My process
 Designing your own html page is just so much fun! Checkout how, and what I used to make this responsive QR element.
