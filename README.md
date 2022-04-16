@@ -25,7 +25,7 @@ Find the screenshots of my designs here.
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [GitHub repository link](https://github.com/pranaygoel02/QR-Code-Element-Card)
 - Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
