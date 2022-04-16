@@ -43,6 +43,7 @@ Designing your own html page is just so much fun! Checkout how, and what I used 
 
 ## Author
 
-- Website - [Pranay Goel]
+- Pranay Goel
 - Frontend Mentor - [@pranaygoel02](https://www.frontendmentor.io/profile/pranaygoel02)
 - Twitter - [@pranay_goel__](https://twitter.com/pranay_goel__)
+- CodeChef - [@pranay02](https://www.codechef.com/users/pranay02)
