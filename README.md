@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,11 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Hey, there! QR codes just makes sharing stuff simple and makes the entire process much more organized. Scan a QR code and you are good to go. No more sharing of big links; instead how about a QR card.
 
 This is a Responsive QR Element Card that can be used anywhere is your projects as well. The entire source code, and screenshots of this particular html page is linked here.
-
-### Screenshot
-Find the screenshots of my designs here.
-![](./my%20design%20screenshots/desktop.png)
-![](./my%20design%20screenshots/phone.png)
 
 ### Links
 
