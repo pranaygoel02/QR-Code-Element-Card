@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 Hey, there! QR codes just makes sharing stuff simple and makes the entire process much more organized. Scan a QR code and you are good to go. No more sharing of big links; instead how about a QR card.
